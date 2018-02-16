@@ -5,6 +5,5 @@ public class Test {
 		System.out.println("Thomas");
 		System.out.println("16");
 		System.out.println("RIP");
-		System.out.println("Donkey");
 	}
 }
